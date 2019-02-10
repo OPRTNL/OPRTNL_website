@@ -15,4 +15,10 @@ h1, h2, h3 {
 
 #subtitle {
   margin: 10px;
+  text-align: center;
+}
+
+.container {
+  border: 1px solid;
+  width: 100%;
 }
